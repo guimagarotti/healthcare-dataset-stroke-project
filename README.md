@@ -90,5 +90,5 @@ O estudo compara dois algoritmos principais: **Random Forest** e **Regressão Lo
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/guimagarotti/healthcare-dataset-stroke-project.git
    cd seu-repositorio
